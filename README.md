@@ -5,7 +5,7 @@
   <h3 align="center">Portfólio landing page by <a href="https://www.linkedin.com/in/maria-fernanda-almeida-oliveira-882944187/">Maria Fernanda Almeida</a></h3>
  <br />
   <p align="center">
-    Site para mostrar seu talento aos recrutadores!
+    Página para mostrar seu talento aos recrutadores!
        <br />
     <br />
     <a href="https://github.com/devchallenge-io/one-landing-page">Desafio</a>
