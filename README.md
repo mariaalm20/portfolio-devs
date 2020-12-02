@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/50887367/100879990-f118d600-348a-11eb-9af9-c643b2c6a228.png" alt="Logo" width="700">
+    <img src="https://user-images.githubusercontent.com/50887367/100879990-f118d600-348a-11eb-9af9-c643b2c6a228.png" alt="Logo" width="650">
 
   <h3 align="center">Portfólio landing page by <a href="https://www.linkedin.com/in/maria-fernanda-almeida-oliveira-882944187/">Maria Fernanda Almeida</a></h3>
  <br />
