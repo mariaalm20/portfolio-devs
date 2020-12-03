@@ -43,7 +43,6 @@ Seu desafio é criar uma página que servirá de portfólio para apresentar seu 
 - Você poderá adicionar mais stacks.
 - Você poderá adicionar uma área com o feedback de pessoas que trabalharam com você.
 - Você poderá adicionar um form para entrarem em contato com você.
-- Você poderá adicionar mais imagens do produto quando o usuário clicar nas opções (bolinhas) que aparecem ao lado esquerdo do produto
 - Você poderá fazer a versão responsiva da página.
 
 # Techs: 
