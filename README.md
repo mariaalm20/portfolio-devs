@@ -40,6 +40,7 @@ Seu desafio é criar uma página que servirá de portfólio para apresentar seu 
 
 ### Requisitos bônus
 - Você poderá adicionar uma foto sua para te conhecerem melhor.
+- Você poderá utilizar grid para posicionar os elementos na tela.
 - Você poderá adicionar mais stacks.
 - Você poderá adicionar uma área com o feedback de pessoas que trabalharam com você.
 - Você poderá adicionar um form para entrarem em contato com você.
